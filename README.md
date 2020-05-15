@@ -1,2 +1,2 @@
 # Space-Invaders
-Space Invaders copy in python
+Space Invaders copy made in python
